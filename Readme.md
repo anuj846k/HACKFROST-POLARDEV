@@ -12,6 +12,15 @@ Links of the repo where Ml models are being deployed whenever retraining happens
 YouTubeVideo Link - https://youtu.be/VPWFfgOpi6E?si=0lHNaS3QMsBwmRxs
 
 
+![Main idea](./Images/Idea.png)
+![Slide2 ](./Images/Slide2.png)
+![Slide3 ](./Images/Slide3.png)
+
+
+### Get message on Discord after redeploy
+![Slide4 ](./Images/Slide4.png)
+
+
 ## Workflow
 
 The Kestra workflow consists of four key steps:
