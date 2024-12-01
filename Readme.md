@@ -9,7 +9,8 @@ To maintain the accuracy and reliability of the deployed model, I automated the 
 
 Links of the repo where Ml models are being deployed whenever retraining happens - https://github.com/anuj846k/kestra_demo
 
-[YouTube Video Link](https://youtu.be/VPWFfgOpi6E?si=0lHNaS3QMsBwmRxs){:target="_blank"}
+<a href="https://youtu.be/VPWFfgOpi6E?si=0lHNaS3QMsBwmRxs" target="_blank">YouTube Video Link</a>
+
 
 
 
