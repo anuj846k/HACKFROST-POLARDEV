@@ -79,7 +79,7 @@ The Kestra workflow consists of four key steps:
 ## Workflow Steps
 
 ### **1. Data Drift Detection**
-The `check_drift` task runs a Python script to analyze data differences.  
+The `data_validation` task runs a Python script to analyze data differences.  
 
 Example:
 ```python
@@ -203,5 +203,6 @@ Example of `metrics.json`:
    - Check for data drift.
    - Retrain the model if drift is detected.
    - Push the outputs to GitHub.
+   - Notifies on Discord 
 
 ---
